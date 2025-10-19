@@ -1,8 +1,6 @@
 # RISCV_Pipeline_Core
 This repository contains the design files of RISC-V Pipeline Core
 
-# ⚙️ RISC-V Pipelined Processor
-
 A 5-stage pipelined **RISC-V (RV32I)** processor implemented in **Verilog HDL**.  
 This project simulates instruction-level parallelism and demonstrates how pipelining improves CPU throughput and performance.
 
